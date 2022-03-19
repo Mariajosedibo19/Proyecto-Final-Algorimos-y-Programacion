@@ -7,5 +7,5 @@ Así mismo, es importante tener presente que todos estos conocimientos obtenidos
 
 
 
-## A continuación encontrara una breve descripción acerca de como fue la realización del proyecto final , en nuestro caso un asistente de voz el cual le permitira ejercutar una serie de operaciones matemáticas mediante un dictado por voz que estud puede ejecutarlo a partil de la terminal de un computador en el cual tenga instalado de manera apriori *Python* , el cual sera el lenguaje de programacion que permitira llevar a cabo dichas operaciones y que posteriormente le entregara tambien por voz el resultado de dicha operación ion matemática.
+A continuación encontrara una breve descripción acerca de como fue la realización del proyecto final , en nuestro caso un asistente de voz el cual le permitira ejercutar una serie de operaciones matemáticas mediante un dictado por voz que estud puede ejecutarlo a partil de la terminal de un computador en el cual tenga instalado de manera apriori *Python* , el cual sera el lenguaje de programacion que permitira llevar a cabo dichas operaciones y que posteriormente le entregara tambien por voz el resultado de dicha operación ion matemática.
 
