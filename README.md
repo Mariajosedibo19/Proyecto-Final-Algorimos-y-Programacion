@@ -58,39 +58,3 @@ Este paquete funciona como la voz de Python , la cual es configurable ( frente a
 <img width="833" alt="Captura de Pantalla 2022-03-21 a la(s) 9 35 13 p m" src="https://user-images.githubusercontent.com/98360789/159396600-60a92df4-478f-4161-8903-c7ba8ee165d1.png">
 
 Link para más informacion :https://pypi.org/project/pyttsx3/ 
-
-
-
-
-
-import speech_recognition as rs
-<br/>
-import pyttsx3
-import AVMSpeechMath as ru
-nombre="cortana"
-listener= rs.Recognizer()
-habla=pyttsx3.init()
-tra="termina"
-def hablar(text):
-    habla.say(text)
-    habla.runAndWait()
-while True:
-    try:
-        with rs.Microphone() as lectura:
-            print("escuchando...")
-            escuchar=listener.listen(lectura)
-            grabacion=listener.recognize_google(escuchar, language="es-ES").lower()
-            grabacion=grabacion.replace("á","a")
-            grabacion=grabacion.replace("é","e")
-            grabacion=grabacion.replace("í","i")
-            grabacion=grabacion.replace("ó","o")
-            grabacion=grabacion.replace("ú","u")
-            if nombre in grabacion:
-                grabacion=grabacion.replace(nombre, "")
-                print(grabacion)
-                resultado=ru.getResult(grabacion)
-                hablar(resultado)
-            if tra in grabacion:
-                break
-    except:
-        pass
