@@ -9,7 +9,7 @@ Así mismo, es importante tener presente que todos estos conocimientos obtenidos
 ![microphone_ui_animation-1](https://user-images.githubusercontent.com/98360789/159489079-49e6467a-bd19-497c-9384-9b2dc7db4b84.gif)
 
 
-A continuación encontrara una breve descripción acerca de como fue la realización del proyecto final , en nuestro caso un asistente de voz el cual le permitira ejercutar una serie de operaciones matemáticas mediante un dictado por voz que usted puede ejecutar a partir de la terminal de un computador en el cual tenga instalado de manera apriori *Python* , el cual sera el lenguaje de programacion que permitira llevar a cabo dichas operaciones y que posteriormente le entregara tambien por voz el resultado de dicha operación ion matemática.
+A continuación encontrara una breve descripción acerca de como fue la realización del proyecto final , en nuestro caso un asistente de voz , la cual le permitira ejercutar una serie de operaciones matemáticas mediante un dictado por voz que usted puede ejecutar a partir de la terminal de un computador en el cual tenga instalado de manera apriori *Python* , el cual sera el lenguaje de programacion que permitira llevar a cabo dichas operaciones y que posteriormente le entregara tambien por voz el resultado de dicha operación matemática. De igual manera es importante mencionar que para que el el programa funcione de una manera eficiente se recomienda una buena pronunciacion y el uso de los comandos para solicitarle a la asistende de voz el resultado.
 
 
 # Herramientas utilizadas
