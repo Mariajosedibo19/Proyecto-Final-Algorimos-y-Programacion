@@ -22,6 +22,7 @@ Paquetes y/o librerías utilizadas para la implementación del código
 Resuelve operaciones matemáticamente por voz. Este paquete es el encargado de reconocer palabras claves (sin acentos/tildes) como son: “cuanto es”, “mas”, “menos”, “por”, “dividido”, hasta una operación más compleja como la es la “raíz”. Esta librería también está encargada de hacer múltiples operaciones a la vez para un único resultado, respetando la jerarquía de operaciones , fundamental para el desarrollo de las operaciones que puede realizar nuestra asistente de voz , mediante el reconocimiento de la misma (voz) al ser obtenida cuando una persona habla haciendo uso de los comandos anteriormente mencionados.
 
 <img width="833" alt="Captura de Pantalla 2022-03-21 a la(s) 9 32 21 p m" src="https://user-images.githubusercontent.com/98360789/159396450-846f49a3-1aff-488f-8a15-4c0c4a3f7357.png">
+https://pypi.org/project/AVMSpeechMath/" 
 
 
 # SpeechRecognition 3.8.1
