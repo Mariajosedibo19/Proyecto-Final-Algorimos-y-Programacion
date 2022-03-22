@@ -22,7 +22,8 @@ Paquetes y/o librerías utilizadas para la implementación del código
 Resuelve operaciones matemáticamente por voz. Este paquete es el encargado de reconocer palabras claves (sin acentos/tildes) como son: “cuanto es”, “mas”, “menos”, “por”, “dividido”, hasta una operación más compleja como la es la “raíz”. Esta librería también está encargada de hacer múltiples operaciones a la vez para un único resultado, respetando la jerarquía de operaciones , fundamental para el desarrollo de las operaciones que puede realizar nuestra asistente de voz , mediante el reconocimiento de la misma (voz) al ser obtenida cuando una persona habla haciendo uso de los comandos anteriormente mencionados.
 
 <img width="833" alt="Captura de Pantalla 2022-03-21 a la(s) 9 32 21 p m" src="https://user-images.githubusercontent.com/98360789/159396450-846f49a3-1aff-488f-8a15-4c0c4a3f7357.png">
-https://pypi.org/project/AVMSpeechMath/" 
+
+ Link para más informacion :https://pypi.org/project/AVMSpeechMath/ 
 
 
 # SpeechRecognition 3.8.1
@@ -31,11 +32,15 @@ Este paquete es el encargado de reconocer la voz por micrófono, sin embargo, en
 
 <img width="833" alt="Captura de Pantalla 2022-03-21 a la(s) 9 35 05 p m" src="https://user-images.githubusercontent.com/98360789/159396572-48818c1e-149d-4519-9d51-b08cee252b01.png">
 
+Link para más informacion :https://pypi.org/project/SpeechRecognition/ 
+
 
 # pyttsx3 2.90
 ## Text to Speech (TTS) library for Python 2 and 3. Works without internet connection or delay. Supports multiple TTS engines, including Sapi5, nsss, and espeak.
 Este paquete funciona como la voz de Python , la cual es configurable ( frente a las posibles voces que se pueden seleccionar) , esta se generara para darle una respuesta fija o una respuesta variable mediante los altavoces del equipo desde el cual se ejecuta el código. En nuestro caso dará respuesta  frente a las operaciones matemáticas planteadas inicialmente por el usuario. E incluso este paquete es funcional tanto en diferentes idiomas , tanto en el  ingles ,español,etc.
 
 <img width="833" alt="Captura de Pantalla 2022-03-21 a la(s) 9 35 13 p m" src="https://user-images.githubusercontent.com/98360789/159396600-60a92df4-478f-4161-8903-c7ba8ee165d1.png">
+
+Link para más informacion :https://pypi.org/project/pyttsx3/ 
 
 
