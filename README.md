@@ -10,7 +10,7 @@ A continuación encontrara una breve descripción acerca de como fue la realizac
 
 # Herramientas utilizadas
 Las herramientas que necesitamos para realizar este proyecto son:
-## •	Tener un editor de texto, en nuestro caso usamos Visual Studio Code junto con el lenguaje de programación, que en este caso es Python. Finalmente, y en adición a estas dos herramientas se deberán instalar los tres paquetes y/o librerías siguientes: (AVMSpeechMath 0.0.5, SpeechRecognition 3.8.1, pyttsx3 2.90) , sobre las cuales a continuación daremos una breve descripción acerca de la importancia de su uso para la creación de nuestra asistente de voz.
+### •	Tener un editor de texto, en nuestro caso usamos Visual Studio Code junto con el lenguaje de programación, que en este caso es Python. Finalmente, y en adición a estas dos herramientas se deberán instalar los tres paquetes y/o librerías siguientes: (AVMSpeechMath 0.0.5, SpeechRecognition 3.8.1, pyttsx3 2.90) , sobre las cuales a continuación daremos una breve descripción acerca de la importancia de su uso para la creación de nuestra asistente de voz.
 Paquetes y/o librerías utilizadas para la implementación del código 
 
 # AVMSpeechMath 0.0.5
