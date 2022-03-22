@@ -16,7 +16,10 @@ A continuación encontrara una breve descripción acerca de como fue la realizac
 Las herramientas que necesitamos para realizar este proyecto son:
 Tener un editor de texto, en nuestro caso usamos Visual Studio Code junto con el lenguaje de programación, que en este caso es Python. Finalmente, y en adición a estas dos herramientas se deberán instalar los tres paquetes y/o librerías siguientes: (AVMSpeechMath 0.0.5, SpeechRecognition 3.8.1, pyttsx3 2.90) , sobre las cuales a continuación daremos una breve descripción acerca de la importancia de su uso para la creación de nuestra asistente de voz.
 
-# Paquetes y/o librerías utilizadas para la implementación del código 
+# Como llevar acabo el proceso de instalaciónde los paquetes utilizados.
+Para comenzar a el proceso de es tan simple como ir a la barra de busqueda y escribir "simbolo del sistema (cmd) " en windows y para mac OS, tendremos que ir a  spotlight, buscar "Terminal" y con esto accederemos facilmente a ella. una vez en la terminal o cmd tendremos que simplemente escribir "pip install" seguido de el nombre del paquete, como son 3 paquetes tendremos que hacer la instalacion por cada una de ellas. O simplemente ir a las pagina del paquete, buscar debajo del nombre donde pueda copiar el codigo facilmente y pegarlo en la terminal o cmd.
+
+# Paquetes y/o librerías utilizadas para la implementación del código. 
 
 # AVMSpeechMath 0.0.5
 ## Perform voice operations in Spanish with Python.
@@ -52,5 +55,3 @@ Este paquete funciona como la voz de Python , la cual es configurable ( frente a
 <img width="833" alt="Captura de Pantalla 2022-03-21 a la(s) 9 35 13 p m" src="https://user-images.githubusercontent.com/98360789/159396600-60a92df4-478f-4161-8903-c7ba8ee165d1.png">
 
 Link para más informacion :https://pypi.org/project/pyttsx3/ 
-
-
