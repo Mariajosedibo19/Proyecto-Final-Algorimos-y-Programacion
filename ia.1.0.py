@@ -1,8 +1,8 @@
-import speech_recognition as rs
+import speech_recognition as reconocimiento
 import pyttsx3
-import AVMSpeechMath as ru
+import AVMSpeechMath as matematicas
 nombre="cortana"
-listener= rs.Recognizer()
+listener= reconocimiento.Recognizer()
 habla=pyttsx3.init()
 tra="termina"
 def hablar(text):
@@ -10,7 +10,7 @@ def hablar(text):
     habla.runAndWait()
 while True:
     try:
-        with rs.Microphone() as lectura:
+        with reconocimiento.Microphone() as lectura:
             print("escuchando...")
             escuchar=listener.listen(lectura)
             grabacion=listener.recognize_google(escuchar, language="es-ES").lower()
@@ -22,7 +22,7 @@ while True:
             if nombre in grabacion:
                 grabacion=grabacion.replace(nombre, "")
                 print(grabacion)
-                resultado=ru.getResult(grabacion)
+                resultado=matematicas.getResult(grabacion)
                 hablar(resultado)
             if tra in grabacion:
                 break
