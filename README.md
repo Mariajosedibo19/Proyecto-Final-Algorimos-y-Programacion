@@ -19,6 +19,9 @@ Tener un editor de texto, en nuestro caso usamos Visual Studio Code junto con el
 # Como llevar acabo el proceso de instalaciónde los paquetes utilizados.
 Para comenzar a el proceso de es tan simple como ir a la barra de busqueda y escribir "simbolo del sistema (cmd) " en windows y para mac OS, tendremos que ir a  spotlight, buscar "Terminal" y con esto accederemos facilmente a ella. una vez en la terminal o cmd tendremos que simplemente escribir "pip install" seguido de el nombre del paquete, como son 3 paquetes tendremos que hacer la instalacion por cada una de ellas. O simplemente ir a las pagina del paquete, buscar debajo del nombre donde pueda copiar el codigo facilmente y pegarlo en la terminal o cmd.
 
+![xd](https://user-images.githubusercontent.com/98360348/159516034-37b9f34b-45f8-42b9-beac-9be228b541ad.png)
+
+
 # Paquetes y/o librerías utilizadas para la implementación del código. 
 
 # AVMSpeechMath 0.0.5
