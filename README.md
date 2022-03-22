@@ -1,6 +1,6 @@
 # Proyecto Final Algoritmos y Programacion
 
-##Proyecto Realizado por : Jaider Andres Garcia , Ricardo Prieto y Maria Jose Diaz. - Estudiantes de Ingenieria de Sistemas en la Universidad Ean. <happy> <books>
+## Proyecto Realizado por : Jaider Andres Garcia , Ricardo Prieto y Maria Jose Diaz. - Estudiantes de Ingenieria de Sistemas en la Universidad Ean. <happy> <books>
 
 Inicialmente se considera pertinente dar una breve descripción acerca de la importancia de aplicar los conocimientos obtenidos a lo largo de la unidad de estudio de , Algoritmos y programación , la cual (es una unidad de estudio impartida por docentes altamente calificados de la universidad EAN, para todos los estudiantes de la facultad de Ingeniería ).
 Por lo tanto , al finalizar de esta misma (unidad de estudio), se pretende obtener como proyecto final realizado por los estudiantes ; tal y como lo es este ,en el cual se llevo a cabo la creación de un asistente de voz que funcionara a partir de la terminal de cualquier computador o sistema operativo que tenga preinstalado Python , como el lenguaje de programación fundamental que permitirá obtener o desarrollar unas acciones predeterminadas que se le soliciten a dicha asistente de voz para que por lo tanto estas se ejecuten de manera satisfactoria . 
